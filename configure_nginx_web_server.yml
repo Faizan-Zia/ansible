@@ -10,7 +10,7 @@
       name:
         - nginx
       state: latest
-    become: yes # noqa 403
+    become: yes
   - name: copy index.html
     copy:
       src: index.html
