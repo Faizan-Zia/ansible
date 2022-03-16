@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bbc547d.chunk.css",
+    "main.js": "/static/js/main.2d55a8b4.chunk.js",
+    "main.js.map": "/static/js/main.2d55a8b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.233000c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.233000c3.js.map",
+    "static/js/2.1c210bd5.chunk.js": "/static/js/2.1c210bd5.chunk.js",
+    "static/js/2.1c210bd5.chunk.js.map": "/static/js/2.1c210bd5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6bbc547d.chunk.css.map": "/static/css/main.6bbc547d.chunk.css.map",
+    "static/js/2.1c210bd5.chunk.js.LICENSE.txt": "/static/js/2.1c210bd5.chunk.js.LICENSE.txt",
+    "static/media/Firebase.848a8af2.png": "/static/media/Firebase.848a8af2.png",
+    "static/media/github_brands.b7ec577a.svg": "/static/media/github_brands.b7ec577a.svg",
+    "static/media/google_brands.3cb88556.svg": "/static/media/google_brands.3cb88556.svg",
+    "static/media/lock_black_24dp.51bbcbc2.svg": "/static/media/lock_black_24dp.51bbcbc2.svg",
+    "static/media/person_outline_black_24dp.d68bff43.svg": "/static/media/person_outline_black_24dp.d68bff43.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.233000c3.js",
+    "static/js/2.1c210bd5.chunk.js",
+    "static/css/main.6bbc547d.chunk.css",
+    "static/js/main.2d55a8b4.chunk.js"
+  ]
+}
